@@ -1,0 +1,9 @@
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/.gitignore
+/algorithm.iml
+/.idea/compiler.xml
+/target/classes/study/recursion/Euclid.class
+/target/test-classes/study/recursion/EuclidTest.class
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
